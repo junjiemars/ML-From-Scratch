@@ -8,3 +8,4 @@ dist/
 *eggs*
 *\.png
 .vscode/
+.env/
